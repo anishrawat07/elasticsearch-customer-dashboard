@@ -104,14 +104,14 @@ To provide you with inferences and managerial implications based on your Elastic
 
 ![Screenshot 2024-12-15 142922](https://github.com/user-attachments/assets/751b19cf-4af5-49e6-bd6c-6fbb18b7155a)
 
-### ** Inferences **
+### **Inferences**
 - **High Sales Peak**: The **maximum sales amount recorded is 19,400**, indicating that the business has successfully achieved a significant sales value during a specific period or for certain products/customers.
 - **Sales Performance Benchmark**: This value of **19,400** sets a clear benchmark for future sales goals and performance measurement.
 - **Potential Outliers**: If this value significantly deviates from average sales, it could indicate special events, promotions, or a one-time high-value transaction.
 - **Top Products/Customers/Time Periods**: Understanding what led to this peak (e.g., specific products, customer segments, or time frames) can help identify key growth drivers.
 
 
-### ** Managerial Implications**
+### **Managerial Implications**
 - **Set Realistic Targets**:
    - Use the maximum sales value of **19,400** as a target or reference point to motivate teams.
    - Managers can develop KPIs (Key Performance Indicators) based on this peak value to improve overall performance.
@@ -133,7 +133,7 @@ To provide you with inferences and managerial implications based on your Elastic
    - Plan for periods of high demand or similar scenarios to meet future peaks efficiently.
 
 
-### ** Next Steps for Visualization Enhancement**
+### **Next Steps for Visualization Enhancement**
 To provide deeper insights and managerial recommendations, you can add visualizations that:
 - Compare **average sales** vs. maximum sales to identify performance gaps.
 - Showcase **sales trends over time** to determine when peaks occur.
