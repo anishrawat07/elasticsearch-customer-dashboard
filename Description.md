@@ -1,4 +1,4 @@
-Visualization 1. 
+**Visualization 1**. 
 
 
 ![Screenshot 2024-12-15 141356](https://github.com/user-attachments/assets/e301a7b2-e057-4fcd-accc-0b29348adc75)
