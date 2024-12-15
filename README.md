@@ -1,6 +1,9 @@
 # elasticsearch-customer-dashboard
 This repository contains a complete workflow for analyzing and visualizing customer data using **Elasticsearch** and **Kibana**. The project focuses on creating meaningful insights from customer datasets by leveraging Elasticsearch queries and building visualizations for business intelligence.
 
+
+![Screenshot 2024-12-15 155142](https://github.com/user-attachments/assets/b2e99b2d-bb61-4bc7-909a-a982ae1d9c15)
+
 ---
 
 ### **Key Features**:  
