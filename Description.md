@@ -1,7 +1,7 @@
-Visualization 1. ![Screenshot 2024-12-15 141356](https://github.com/user-attachments/assets/e301a7b2-e057-4fcd-accc-0b29348adc75)
+Visualization 1. 
+![Screenshot 2024-12-15 141356](https://github.com/user-attachments/assets/e301a7b2-e057-4fcd-accc-0b29348adc75)
 - **Metric Shown**: Total Count of `cust_id.keyword`.
 - **Value**: **4,438** total records.
----
 
 ### **Inferences**:
 * **Customer Base Size**:  
@@ -14,7 +14,6 @@ Visualization 1. ![Screenshot 2024-12-15 141356](https://github.com/user-attachm
    - This count highlights a clean data set where `cust_id.keyword` has been accurately captured and categorized.  
    - The presence of keywords suggests the data might be pre-processed for further analytics, such as **customer segmentation** or **keyword-based search analysis**.
 
----
 
 ### **Managerial Insights**:
 * **Customer Segmentation**:  
@@ -29,7 +28,6 @@ Visualization 1. ![Screenshot 2024-12-15 141356](https://github.com/user-attachm
 * **Retention Focus**:  
    - With 4,438 customers, focusing on **customer retention strategies** (like discounts, memberships, or post-sale service) can stabilize and grow the business in the long term.
 
----
 
 ### Next Steps (Recommended Actions):  
 - Use the existing customer data to analyze trends such as:  
@@ -37,3 +35,5 @@ Visualization 1. ![Screenshot 2024-12-15 141356](https://github.com/user-attachm
    - High-frequency or loyal customers.  
    - Customer churn rates or inactive accounts.  
 - Integrate this visualization into a broader dashboard to explore correlations, like sales per customer ID, order frequency, or customer lifetime value (CLV).
+
+---
