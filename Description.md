@@ -41,3 +41,54 @@
 - Integrate this visualization into a broader dashboard to explore correlations, like sales per customer ID, order frequency, or customer lifetime value (CLV).
 
 ---
+
+**Visualization 2**
+
+![Screenshot 2024-12-15 142249](https://github.com/user-attachments/assets/930d42c5-73ec-4f79-9eb8-a6bafc50d101)
+
+
+### Visualization Details:
+- **Metric Shown**: Average Sales.  
+- **Value**: **878.886**.
+
+
+### **Inferences**:
+* **Performance Indicator**:  
+   - The average sales value of **878.886** provides a key performance benchmark to evaluate overall transaction performance or revenue per transaction.
+
+* **Consistency Assessment**:  
+   - The average suggests a central tendency of sales performance across customers or transactions. If this average is stable, it indicates consistent sales patterns. However, analyzing the **variance** or distribution (e.g., minimum, maximum, and standard deviation) would help understand deviations.
+
+* **Benchmark for Growth**:  
+   - This average can serve as a baseline for sales improvement. For example:  
+     - If this represents **revenue per transaction**, strategies can be developed to increase it (e.g., upselling, cross-selling).  
+     - If it’s the **per-customer average**, retention and engagement strategies can enhance customer value.
+
+* **Comparative Analysis**:  
+   - Compare the **current average** with historical data (month-over-month or year-over-year) to identify trends.  
+   - Assess performance across different customer segments or timeframes.
+
+
+### **Managerial Insights**:
+* **Identify High and Low Performers**:  
+   - Analyze which products, regions, or customers contribute most to this average. Focus on improving the lower-performing categories.
+
+* **Sales Growth Focus**:  
+   - Set targets to move the average sales value upwards using initiatives like:  
+     - Introducing **premium product offerings**.  
+     - Offering **bundled discounts** to increase transaction value.
+
+* **Customer Value Enhancement**:  
+   - If this reflects **average customer sales**, create loyalty programs or incentives to encourage repeat purchases, raising individual sales contributions.
+
+* **Forecasting Opportunities**:  
+   - Use the current average to project total sales for future quarters by multiplying it with **expected transaction volume**.
+
+
+### Next Steps:  
+- Dive deeper into **distribution analysis** of sales to identify outliers or skewness.  
+- Combine this metric with total records (**4,438**) to calculate total revenue:  
+   \[
+   \text{Estimated Total Revenue} = \text{4,438} \times \text{878.886} \approx 3,897,874.57
+   \]  
+   (Verify this in your system for accuracy.)
