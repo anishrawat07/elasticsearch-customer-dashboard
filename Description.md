@@ -140,3 +140,63 @@ To provide deeper insights and managerial recommendations, you can add visualiza
 - Highlight **top products or customer segments** that contributed to the sales peak.
 
 ---
+
+**Visualization 4.**
+
+![Screenshot 2024-12-15 143755](https://github.com/user-attachments/assets/de37c06d-5eec-41ff-b1ed-17284c3ad789)
+
+
+### **Inferences**
+* **Northeast**: **47.19%** (largest contributor)  
+* **South**: **27.65%**  
+* **Midwest**: **17.75%**  
+* **West**: **7.4%**  
+
+---
+
+### **Key Observations**:
+* **Dominant Region - Northeast**:
+   - The **Northeast region** accounts for almost **half (47.19%)** of total sales.
+   - This indicates a strong market presence, customer base, or operational success in this region.
+
+* **South Region**:
+   - With **27.65%**, the South performs well but significantly lags behind the Northeast. 
+   - There is an opportunity to **grow market share** further.
+
+* **Underperforming Regions - Midwest and West**:
+   - The **Midwest** contributes only **17.75%** of total sales.  
+   - The **West** is the lowest-performing region with just **7.4%**.  
+   - Both regions require focused efforts to **boost sales performance**.
+
+
+### **Managerial Implications**
+* **Leverage the Strength in the Northeast**:
+   - **Maintain leadership** in the Northeast by reinforcing existing strategies (customer retention, inventory optimization, and marketing).
+   - Explore **expansion opportunities** in high-demand pockets within the region to drive incremental growth.
+
+* **Focus on Growth in the South**:
+   - Investigate what strategies are working in the Northeast and replicate them in the South.
+   - Target key demographics and launch **promotions or campaigns** to bridge the sales gap.
+
+* **Revitalize Midwest and West**:
+   - Conduct a detailed analysis to identify reasons for underperformance:
+     - Are there **operational issues** (e.g., supply chain, logistics)?
+     - Is it due to **low demand** or **competition**?  
+   - Implement region-specific marketing, pricing, and product strategies to stimulate demand.
+   - Consider **partnering with local distributors or retailers** in these areas.
+
+* **Resource Allocation**:
+   - Allocate higher budgets for **promotions, advertisements, or infrastructure** in the **Midwest and West**.
+   - Continue **monitoring and optimizing** resources in the Northeast to sustain leadership.
+
+* **Data-Driven Expansion**:
+   - Use sales data to identify **high-potential cities** or **customer segments** in underperforming regions.
+   - Launch **pilot programs** to test new sales and marketing initiatives in these areas.
+
+
+### **Conclusion**
+- The **Northeast** drives success and can serve as a model for other regions.  
+- The **South** shows promise for further growth.  
+- The **Midwest** and **West** require strategic interventions to improve sales performance and capture untapped opportunities.  
+
+---
