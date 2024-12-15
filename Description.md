@@ -88,7 +88,5 @@
 ### Next Steps:  
 - Dive deeper into **distribution analysis** of sales to identify outliers or skewness.  
 - Combine this metric with total records (**4,438**) to calculate total revenue:  
-   \[
-   \text{Estimated Total Revenue} = \text{4,438} \times \text{878.886} \approx 3,897,874.57
-   \]  
+   {Estimated Total Revenue} = {4,438} \times {878.886} \approx 3,897,874.57
    (Verify this in your system for accuracy.)
