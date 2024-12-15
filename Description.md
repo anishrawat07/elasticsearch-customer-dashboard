@@ -261,3 +261,54 @@ To provide deeper insights and managerial recommendations, you can add visualiza
 5. **Resource Optimization**: Streamline workforce, inventory, and logistical resources around peak sales times to optimize operational efficiency.
 
 ---
+
+**Visualization 6**
+
+![Screenshot 2024-12-15 144954](https://github.com/user-attachments/assets/aed3de70-0771-4bad-8a03-e9cfc25c42d0)
+
+
+### **Key Observations from the Visualization**
+1. **Sales Drop Over Time**:
+   - The graph shows a steep decline in **Sales** shortly after **14:30**. Sales peak at around **1,200 units** initially but fall sharply to about **400–500 units** shortly after.
+   - After this initial drop, the sales **stabilize at lower levels** between 200 and 400 units for the rest of the period.
+
+2. **Stabilized Sales**:
+   - Between **14:35** and **14:45**, sales remain relatively flat, indicating a consistent, albeit lower, level of performance.
+   - There is a slight increase toward **14:42**, but this spike is not significant enough to reverse the downward trend.
+
+3. **Peak Period**:
+   - The **peak time** for sales is clearly **14:30** with a sudden surge before dropping off rapidly.
+
+
+### **Managerial Insights**
+1. **Understand the Sales Surge**:
+   - Investigate the reason for the high sales spike at **14:30**.
+     - Was this driven by a **promotion, event launch, or time-based offer**?
+     - Replicating these conditions during similar times may help drive more sales.
+
+2. **Sustaining Sales After the Peak**:
+   - The rapid drop-off suggests sales momentum is **not sustained** after the initial peak.
+   - Introduce strategies to maintain engagement, such as:
+     - Time-based incentives (e.g., flash sales).
+     - Post-peak promotions to prolong customer interest.
+
+3. **Sales Consistency**:
+   - Between **14:35–14:45**, sales stabilize at a **low level**. This period could benefit from interventions like:
+     - Targeted notifications or offers to re-engage customers.
+     - Bundling deals or discounts to stimulate activity.
+
+4. **Timing Analysis**:
+   - If this pattern (high initial activity followed by a drop) repeats consistently over time, focus on **resource allocation**:
+     - Ensure enough stock, staff, and marketing push at peak periods (around **14:30**).
+     - Analyze ways to **extend the high sales window**.
+
+
+### **Actionable Recommendations**
+1. **Replicate Peak Sales Strategy**:
+   - Identify and reproduce the drivers behind the 14:30 sales spike.
+2. **Engage Post-Peak Customers**:
+   - Use strategies such as **real-time notifications** or **progressive discounts** to retain interest after the initial drop.
+3. **Sales Sustenance**:
+   - Launch mini-campaigns or interactive promotions during the stabilizing period to revive sales performance.
+
+---
