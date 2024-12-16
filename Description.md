@@ -424,3 +424,45 @@ To provide deeper insights and managerial recommendations, you can add visualiza
 4. **Operational Preparation**: Ensure resources are aligned to handle peak activity efficiently.  
 
 ---
+
+**Visualization 9**
+
+![Screenshot 2024-12-16 142848](https://github.com/user-attachments/assets/317b7b0d-01a1-43ce-9f55-b7f23d36b02d)
+
+### **Key Observations from the Visualization**
+
+1. **Median Sales Value**:  
+   - The **median of sales** is reported as **117.924**.  
+   - The median represents the **central value** in the sales data, meaning 50% of sales data points are below this figure, and 50% are above.  
+
+2. **Sales Target Gauge**:  
+   - The gauge visual indicates sales progress from **0 to 100 units** (or a normalized scale), with the median surpassing the scale's upper limit at **117.924**.  
+   - This suggests that the overall sales performance is performing **above the expected target threshold** (100 units).
+
+
+### **Managerial Insights**
+
+1. **Above-Target Performance**:  
+   - The sales team or strategy appears to have exceeded the typical target range, as the **median sales** surpass the 100-unit mark.  
+   - This indicates consistent performance with sustained sales activity across categories or timeframes.
+
+2. **Consistency in Sales**:  
+   - A high median value (117.924) shows that sales are not skewed by outliers or extreme highs/lows, reflecting **steady and reliable sales performance**.  
+   - This consistency can be leveraged to forecast future performance more accurately.  
+
+3. **Optimized Target Setting**:  
+   - Given that the median surpasses 100, consider revising **sales targets upward** to challenge teams and drive further growth.  
+   - New, more ambitious benchmarks can incentivize better performance without impacting sustainability.
+
+4. **Balanced Sales Contributions**:  
+   - A high median suggests that most contributors (products, teams, or channels) are performing well.  
+   - Identify specific drivers behind this steady growth and **scale successful strategies** to underperforming areas.
+
+
+### **Actionable Recommendations**  
+1. **Reassess Sales Targets**: Increase the targets to reflect the current high performance.  
+2. **Leverage Strong Performance**: Analyze top contributors to maintain momentum and replicate their success.  
+3. **Optimize Forecasting**: Use the consistent median sales figure to improve demand planning and resource allocation.  
+4. **Incentivize Growth**: Introduce performance incentives to further elevate the sales output beyond the current median.
+
+---
