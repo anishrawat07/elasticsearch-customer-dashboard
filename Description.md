@@ -466,3 +466,53 @@ To provide deeper insights and managerial recommendations, you can add visualiza
 4. **Incentivize Growth**: Introduce performance incentives to further elevate the sales output beyond the current median.
 
 ---
+
+**Visualization 10**
+
+![Screenshot 2024-12-16 143050](https://github.com/user-attachments/assets/40dd04d0-8abf-4147-9224-b75e8aa9ed71)
+
+### **Inferences Based on Correlation Between Sales and Discounts**
+
+The visualization indicates **sales amounts** distributed over time with corresponding color-coded discount ranges:
+
+- **Blue Shades**: Represent lower sales ranges (**0 - 15.273**).
+- **Orange (15.273 - 20.364)**: Mid-level sales.
+- **Red (≥ 20.364)**: Highest sales amounts.
+
+
+### **Key Observations**  
+1. **Sales Peaks with Discounts**:  
+   - **Red bar** (≥ 20.364) shows the highest sales amount. This suggests that a discount or a promotion led to **significant sales growth** at that specific timestamp.  
+
+2. **Clustering of Low to Mid-Level Sales**:  
+   - The majority of bars fall within the **blue ranges (0 - 15.273)**, indicating that most transactions occur at **lower sales values**.  
+
+3. **Short Timeframe for High Sales**:  
+   - High sales (orange and red bars) occurred **within a very short time window**, around **14:08:30**. This could mean:  
+     - A **flash sale** or limited-time discount drove quick, high-value transactions.  
+     - **High-value purchases** may have spiked due to specific products or targeted buyers.
+
+
+### **Managerial Implications**  
+
+1. **Leverage Discount Strategies**:  
+   - The correlation of high sales with discount ranges suggests that **targeted discounts drive sales spikes**.  
+   - Managers should:  
+     - Analyze which discounts/products achieved the best results.  
+     - Design **strategic promotions** during high-traffic timeframes to optimize sales performance.  
+
+2. **Timing Promotions**:  
+   - Since high sales occurred during a brief period (**14:08:30**), identify and replicate such time windows for future promotions.  
+   - Test flash sales, hourly discounts, or limited-time offers to encourage **quick, high-value transactions**.
+
+3. **Monitor Sales Volume Trends**:  
+   - Track **sales progression over time** to identify patterns or opportunities for intervention.  
+   - Use time-based analysis to decide on resource allocation, staffing, or promotional campaigns.  
+
+4. **Focus on High Performers**:  
+   - Products or customer segments driving high-value purchases (orange/red bars) should receive special focus.  
+   - Managers can prioritize **inventory availability, upselling strategies, and targeted campaigns** for these segments.
+
+
+### **Conclusion**  
+This visualization highlights a **positive correlation** between discounts and sales peaks, particularly within a short time. By refining discount strategies, timing promotions effectively, and analyzing peak sales contributors, managers can maximize overall revenue and improve sales consistency.
