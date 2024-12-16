@@ -2,7 +2,7 @@
 This repository contains a complete workflow for analyzing and visualizing customer data using **Elasticsearch** and **Kibana**. The project focuses on creating meaningful insights from customer datasets by leveraging Elasticsearch queries and building visualizations for business intelligence.
 
 
-![Screenshot 2024-12-15 155142](https://github.com/user-attachments/assets/b2e99b2d-bb61-4bc7-909a-a982ae1d9c15)
+![Screenshot 2024-12-16 144040](https://github.com/user-attachments/assets/122fc2ca-f2de-4911-878f-06f4507d7d6b)
 
 ---
 
