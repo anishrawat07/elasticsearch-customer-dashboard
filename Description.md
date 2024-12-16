@@ -370,3 +370,57 @@ To provide deeper insights and managerial recommendations, you can add visualiza
 4. **Explore Opportunities in "Other" Categories** to diversify revenue streams.  
 
 ---
+
+**Visualization 8**
+
+![Screenshot 2024-12-16 142659](https://github.com/user-attachments/assets/aeb9d844-6cd4-429b-834a-f27f3d9c0e66)
+
+### **Key Observations from the Visualization**
+
+1. **Sales Concentration**:
+   - The graph shows a clear **peak in sales activity** between **14:05 and 14:10**.
+   - Sales are distributed in a **bell-shaped pattern**, with the highest value close to **5,000–5,500 units** during this period.
+   - Before and after this timeframe (around 14:00 and 14:15), sales drop sharply to nearly **zero**, indicating that activity is highly concentrated in this window.
+
+2. **Sales Distribution Trend**:
+   - Sales gradually increase starting from 14:05, reach a peak at approximately 14:08–14:09, and then decline back by 14:10.
+   - This suggests a short **burst of high sales** followed by a quick tapering off.
+
+3. **Narrow Timeframe**:
+   - The entire sales activity occurs within a span of **5–6 minutes**, reflecting a very focused, time-sensitive event or demand.
+
+
+### **Managerial Insights**
+
+1. **Identify Sales Drivers**:
+   - Determine the cause of the **spike in sales** within the narrow window (14:05–14:10). Potential factors include:
+     - Limited-time offers or flash sales.
+     - Product launches or events.
+     - External influences like promotions or advertisements.
+   - Replicating these conditions can help drive similar spikes in other time windows.
+
+2. **Leverage Short-Term Sales Trends**:
+   - Since the sales activity is highly concentrated, focus on:
+     - Creating **short, targeted campaigns** that capitalize on customer behavior during this timeframe.
+     - Real-time marketing or notifications to drive more traffic during such peaks.
+
+3. **Optimize Operational Readiness**:
+   - Ensure operational resources (e.g., inventory, servers, staff) are fully prepared during high-activity periods to handle surges without delays.
+
+4. **Extend Peak Activity**:
+   - Implement strategies to sustain sales beyond the 14:10 mark:
+     - Gradual discounts or tiered promotions that extend customer engagement.
+     - Follow-up offers immediately after the peak to retain momentum.
+
+5. **Analyze Off-Peak Times**:
+   - Investigate why sales are **zero** before and after the peak:
+     - Could the business attract activity during these periods with better promotions, reminders, or extended offers?
+
+
+### **Actionable Recommendations**
+1. **Analyze the Success Factors**: Investigate what drove the short-term sales burst and replicate it.  
+2. **Sustain Momentum**: Design follow-up campaigns to extend activity post-peak.  
+3. **Time-Based Strategies**: Focus on similar high-activity windows to optimize sales performance.  
+4. **Operational Preparation**: Ensure resources are aligned to handle peak activity efficiently.  
+
+---
