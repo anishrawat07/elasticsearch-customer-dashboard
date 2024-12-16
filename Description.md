@@ -312,3 +312,61 @@ To provide deeper insights and managerial recommendations, you can add visualiza
    - Launch mini-campaigns or interactive promotions during the stabilizing period to revive sales performance.
 
 ---
+
+**Visualization 7**
+
+![Screenshot 2024-12-16 142227](https://github.com/user-attachments/assets/9b6f65c0-2aba-459f-b104-b354e88c0119)
+
+
+### **Key Observations from the Visualization**  
+
+1. **Top Performing Category**:  
+   - **Mobiles and Tablets** dominate sales with a total of **6,131,058.067**, contributing more than **50%** of the total sales.  
+   - This category is clearly the most significant driver of revenue.  
+
+2. **Significant Drop After Mobiles and Tablets**:  
+   - The next two categories, **Appliances** and **Entertainment**, generate **1,749,661.363** and **1,697,132.264** respectively.  
+   - Both categories are performing well but are far behind **Mobiles and Tablets** in terms of revenue share.
+
+3. **Lower Performing Categories**:  
+   - **WoMensFashion** and **MensFashion** show comparatively lower sales at **747,866.788** and **400,385.857** respectively.  
+   - Together, these categories contribute less than 10% of the overall sales.  
+
+4. **Other Category**:  
+   - The "Other" category accounts for **1,251,515.161**, indicating that smaller or uncategorized sales still hold significant value.  
+
+5. **Total Sales**:  
+   - The overall **sum of sales** is **11,977,619.5**, with a large portion coming from the top 3 categories.
+
+
+### **Managerial Insights**  
+
+1. **Focus on High-Performing Categories**:  
+   - **Mobiles and Tablets** is the clear leader, contributing over half the revenue.  
+     - Double down on marketing, promotions, and stock availability for this category to further strengthen its growth.  
+     - Identify what factors (e.g., discounts, new product launches) are driving this success.  
+
+2. **Growth Opportunities in Appliances and Entertainment**:  
+   - While **Appliances** and **Entertainment** are strong, they are underperforming compared to **Mobiles and Tablets**.  
+     - Increase focus on these segments through targeted promotions, bundles, or campaigns to boost their contribution.  
+   - Conduct customer research to identify why these categories lag behind Mobiles.  
+
+3. **Address Underperforming Fashion Segments**:  
+   - **WoMensFashion** and **MensFashion** need targeted strategies to increase revenue:  
+     - Run category-specific promotions (e.g., seasonal sales, discounts).  
+     - Improve product assortment or introduce trends that appeal to the target demographic.  
+
+4. **Leverage "Other" Category Potential**:  
+   - The "Other" category still holds significant revenue (**1.25M**). Dive deeper into this segment to uncover hidden opportunities or emerging trends.  
+
+5. **Diversify Revenue Sources**:  
+   - **Reduce dependency on a single category** like Mobiles and Tablets by growing sales in Appliances, Entertainment, and Fashion.  
+
+
+### **Actionable Recommendations**  
+1. **Enhance Promotions for Appliances and Entertainment** to grow their revenue share.  
+2. **Improve Sales in Fashion** through marketing, new product launches, and customer-centric strategies.  
+3. **Identify Drivers for Mobiles and Tablets’ Success** and replicate similar strategies in other categories.  
+4. **Explore Opportunities in "Other" Categories** to diversify revenue streams.  
+
+---
